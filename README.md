@@ -10,6 +10,6 @@ using Front-End HTML,CSS, Javascript+js frameworks + PowerShell, Python, Ansible
 
 🤔 I'm always open to getting help with growing my skills in Webdev + Python by working on Projects
 
-💬 Ask me about cloud engineering, content creation, training, and collaborating with the world!
+💬 Ask me about cloud engineering, content creation, training, and collaborating!
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jamelachahbar
