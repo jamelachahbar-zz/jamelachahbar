@@ -4,7 +4,7 @@
 Jamel is a blogger, Azure Cloud Specialist, Trainer, and a busy dad of 4 and utterly passionate about learning new stuff everyday!!
 
 💻🌱 I’m currently working on perfecting skills in development/automation 
-using Front-End HTML,CSS, Javascript+js frameworks + PowerShell, Python, Ansible and HCL that typically consist of Azure, on-prem environments.
+using Front-End HTML,CSS, Javascript+js frameworks + PowerShell,ARM/Bicep Python, Ansible and HCL that typically consist of Azure, on-prem environments.
 
 👯 I’m looking to collaborate on any open-source project that needs a developer, an IaC engineer,...
 
