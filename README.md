@@ -13,3 +13,6 @@ using Front-End HTML,CSS, Javascript+js frameworks + PowerShell,ARM/Bicep Python
 💬 Ask me about cloud engineering, content creation, training, and collaborating!
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jamelachahbar
+
+
+[![Jamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelachahbar)](https://github.com/anuraghazra/github-readme-stats)
